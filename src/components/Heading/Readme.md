@@ -1,3 +1,0 @@
-```jsx
-  <Heading>Tweets</Heading>
-```
